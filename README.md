@@ -1,7 +1,8 @@
 # Test Modeling California Housing
 DATASET
-Dataset disponível no site SKLearn: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html#sklearn.datasets.fetch_california_housing
 Dataset apresenta 20640 dados
+Dataset disponível no site SKLearn: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html#sklearn.datasets.fetch_california_housing
+
 - MedInc        median income in block group
 - HouseAge      median house age in block group
 - AveRooms      average number of rooms per household
